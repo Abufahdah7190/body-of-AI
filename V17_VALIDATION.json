@@ -1,0 +1,8 @@
+{
+  "tests_passed": 110,
+  "new_observation_tests": 12,
+  "clinical_validation": false,
+  "new_model_training": false,
+  "physical_camera_test": false,
+  "authentication_uses_observations": false
+}

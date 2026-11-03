@@ -1,0 +1,21 @@
+{
+  "counts": {
+    "train": 22878,
+    "val": 4034,
+    "test": 6559
+  },
+  "conflicting_label_rows_removed": 160,
+  "cross_original_split_rows_removed": 1188,
+  "decode_errors": [],
+  "classes": [
+    "angry",
+    "disgust",
+    "fear",
+    "happy",
+    "neutral",
+    "sad",
+    "surprise"
+  ],
+  "seed": 42,
+  "limits": "Exact pixel duplicates removed. Subject identities and near duplicates unavailable; this is not a subject-independent or camera benchmark."
+}

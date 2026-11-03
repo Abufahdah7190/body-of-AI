@@ -1,0 +1,6 @@
+path: C:/Users/omarb/Documents/Codex/Biometric_Complete_Chargers/charger_dataset
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: charger

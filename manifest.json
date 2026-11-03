@@ -1,0 +1,9 @@
+{
+  "classes": [
+    "charger"
+  ],
+  "sha256": "9702a5957de30d268cca478fdb5409647a19870b7a28694c9ebe0a507a68b2e0",
+  "source_run": "object_training_runs/charger-hard-negative",
+  "trained_by_user": true,
+  "status": "experimental"
+}

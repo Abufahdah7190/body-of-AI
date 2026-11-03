@@ -1,0 +1,12 @@
+{
+  "metrics/precision(B)": 0.9144568322251152,
+  "metrics/recall(B)": 0.9734819867013833,
+  "metrics/mAP50(B)": 0.9649999999999999,
+  "metrics/mAP50-95(B)": 0.6935320616883116,
+  "fitness": 0.6935320616883116,
+  "class": "charger",
+  "train_images": 48,
+  "validation_images": 10,
+  "test_images": 11,
+  "note": "Experimental fine-tuning. Guide boxes are approximate; there are no negative images, so real-world false detections are not measured."
+}

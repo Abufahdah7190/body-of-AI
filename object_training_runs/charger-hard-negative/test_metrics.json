@@ -1,0 +1,13 @@
+{
+  "metrics/precision(B)": 0.9849438255451425,
+  "metrics/recall(B)": 0.9090909090909091,
+  "metrics/mAP50(B)": 0.9757142857142858,
+  "metrics/mAP50-95(B)": 0.6006758942811575,
+  "fitness": 0.6006758942811575,
+  "class": "charger",
+  "train_images": 56,
+  "train_negative_images": 8,
+  "validation_images": 10,
+  "test_images": 11,
+  "note": "Experimental fine-tuning with hard-negative crops from the user-provided false-positive camera scene. The negative set is small and based on one scene; results do not establish general false-positive performance."
+}

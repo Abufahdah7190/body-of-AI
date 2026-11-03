@@ -1,0 +1,25 @@
+{
+  "type": "upstream illustration smoke test only; not independent evaluation",
+  "detector": "upstream RetinaFace; application uses FaceMesh boxes, domain shift unvalidated",
+  "samples": [
+    {
+      "file": "image_F1.jpg",
+      "source_label": "attack",
+      "gate_score": 0.1433284878730774,
+      "decision": "attack"
+    },
+    {
+      "file": "image_F2.jpg",
+      "source_label": "attack",
+      "gate_score": 0.5,
+      "decision": "inconclusive"
+    },
+    {
+      "file": "image_T1.jpg",
+      "source_label": "live",
+      "gate_score": 0.990223228931427,
+      "decision": "live"
+    }
+  ],
+  "field_tests_completed": false
+}

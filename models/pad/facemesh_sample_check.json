@@ -1,0 +1,28 @@
+{
+  "type": "three upstream demonstration still images, not independent or temporal/field evaluation",
+  "detector": "application FaceMesh plus mirrored image",
+  "samples": [
+    {
+      "file": "image_F1.jpg",
+      "source_label": "attack",
+      "faces": 1,
+      "gate_score": 0.058060407638549805,
+      "decision": "attack"
+    },
+    {
+      "file": "image_F2.jpg",
+      "source_label": "attack",
+      "faces": 1,
+      "gate_score": 0.0329587496817112,
+      "decision": "attack"
+    },
+    {
+      "file": "image_T1.jpg",
+      "source_label": "live",
+      "faces": 1,
+      "gate_score": 0.9940862655639648,
+      "decision": "live"
+    }
+  ],
+  "field_tests_completed": false
+}
