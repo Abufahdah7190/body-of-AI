@@ -1,0 +1,12 @@
+[
+  {
+    "case": "phone",
+    "faces": 1,
+    "panel_suspected": true
+  },
+  {
+    "case": "cup",
+    "faces": 1,
+    "panel_suspected": false
+  }
+]
